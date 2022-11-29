@@ -1,5 +1,5 @@
 
-# IndividualProject II in C++
+ # Abigail217-Flight_Finding-Individual-Project
 This project finds a path one can take from a start city, country to a destination city, country.
 
 the algorithm implemented was the Breath First Search.
@@ -15,5 +15,4 @@ Navigate to the terminal of the preferred IDE, and paste: "g++ helper_functions.
 After, paste "./main" (do not include the " ")  to run
 # Flight-Finding-Indivial-Project-II
 
-# Abigail217-Flight_Finding-Individual-Project
-# Abigail217-Flight_Finding-Individual-Project
+
